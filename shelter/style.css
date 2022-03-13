@@ -1,0 +1,71 @@
+.vi {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+background: url(noise_lines_transparent@2X.png), radial-gradient(100% 215.42% at 0% 0%, #5B483A 0%, #262425 100%), #211F20;
+
+}
+
+.logo{
+    position: absolute;
+    width: 200px;
+    height: 60px;
+    left: 0px;
+    top: 0px;
+}
+
+.title{
+    position: absolute;
+    width: 200px;
+    height: 35px;
+    left: 40px;
+    top: 0px;
+    
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 110%;
+    
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.06em;
+    
+    color: #F1CDB3;
+}
+
+.subtitle{
+    position: absolute;
+    width: 200px;
+    height: 15px;
+    left: 44px;
+    top: 70px;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400px ;
+    font-size: 13px;
+    line-height: 15px;
+    
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1em;
+    
+    color: #FFFFFF;
+}
+
+.list{
+height: 24px;
+width: auto;
+
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 160%;
+
+color: #FAFAFA;
+}
